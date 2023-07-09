@@ -1,0 +1,19 @@
+.container12{
+    padding: 0px;
+    margin: 0px;
+    background-color: rgb(35,47,62);
+}
+.main{
+    padding: 0px;
+    background-color: rgb(35,47,62);
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+    height: 30px;
+}
+
+.nav-item{
+    font-size: 13px;
+    font-weight: bold;   
+}
