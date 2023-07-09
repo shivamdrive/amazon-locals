@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/amazon-locals/static/css/main.1d7cff6b.chunk.css",
+    "main.js": "/amazon-locals/static/js/main.838521fa.chunk.js",
+    "main.js.map": "/amazon-locals/static/js/main.838521fa.chunk.js.map",
+    "runtime-main.js": "/amazon-locals/static/js/runtime-main.57b1aa1c.js",
+    "runtime-main.js.map": "/amazon-locals/static/js/runtime-main.57b1aa1c.js.map",
+    "static/css/2.587a2a2e.chunk.css": "/amazon-locals/static/css/2.587a2a2e.chunk.css",
+    "static/js/2.e7101dc9.chunk.js": "/amazon-locals/static/js/2.e7101dc9.chunk.js",
+    "static/js/2.e7101dc9.chunk.js.map": "/amazon-locals/static/js/2.e7101dc9.chunk.js.map",
+    "index.html": "/amazon-locals/index.html",
+    "precache-manifest.309ffbec7e1e5fd6a339b117b5901ade.js": "/amazon-locals/precache-manifest.309ffbec7e1e5fd6a339b117b5901ade.js",
+    "service-worker.js": "/amazon-locals/service-worker.js",
+    "static/css/2.587a2a2e.chunk.css.map": "/amazon-locals/static/css/2.587a2a2e.chunk.css.map",
+    "static/css/main.1d7cff6b.chunk.css.map": "/amazon-locals/static/css/main.1d7cff6b.chunk.css.map",
+    "static/js/2.e7101dc9.chunk.js.LICENSE.txt": "/amazon-locals/static/js/2.e7101dc9.chunk.js.LICENSE.txt",
+    "static/js/main.838521fa.chunk.js.LICENSE.txt": "/amazon-locals/static/js/main.838521fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57b1aa1c.js",
+    "static/css/2.587a2a2e.chunk.css",
+    "static/js/2.e7101dc9.chunk.js",
+    "static/css/main.1d7cff6b.chunk.css",
+    "static/js/main.838521fa.chunk.js"
+  ]
+}
